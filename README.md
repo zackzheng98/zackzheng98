@@ -7,7 +7,7 @@ I am zack,from taiwan,a first-year student in the Control Department of Advanced
 * C#
 * ~~python~~
 
-## Link or Contact information 🔗
+### Link or Contact information 🔗
 * [only chinese blog](https://zackzheng1121.github.io//)
 * [discord server](https://discord.gg/TCywP5TdEc)
 * email:zackzheng.1121@gmail.com
