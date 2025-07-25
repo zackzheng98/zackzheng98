@@ -1,8 +1,8 @@
 ## Hi there 👋
 I am zack,from taiwan,a first-year student in the Control Department of Advanced Industrial Vocational School!
 ### what languages I use
-中文 chinese
-some english
+* 中文 chinese
+* some english
 ### what Programming languages I use
 * C#
 ~~* python~~
