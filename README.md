@@ -1,16 +1,17 @@
 ## Hi there 👋
+I am zack,from taiwan,a first-year student in the Control Department of Advanced Industrial Vocational School!
+### what languages I use
+中文 chinese
+some english
+### what Programming languages I use
+* C#
+~~* python~~
+## link or Contact information
+* (only chinese blog)[https://zackzheng1121.github.io//]
+* (discord server)[https://discord.gg/TCywP5TdEc]
+* email:zackzheng.1121@gmail.com
+* (my discord)[https://discord.gg/XuYpym4r]
 
-<!--
-**zackzheng98/zackzheng98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### some contribution
+[!Zackzheng98's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackzheng98&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackzheng98)](https://github.com/zackzheng98/github-readme-stats)
