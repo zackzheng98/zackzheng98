@@ -4,8 +4,8 @@ I am zack,from taiwan,a first-year student in the Control Department of Advanced
 * 中文 chinese
 * some english
 ### What Programming languages I use💻
-* C#
-* ~~python~~
+- [x]C#
+- [ ]~~python~~
 
 ### Link or Contact information 🔗
 * [only chinese blog](https://zackzheng1121.github.io//)
